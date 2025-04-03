@@ -5,17 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54e68d01-4ca6-406d-9948-1a6dae70897a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/client-route/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/product-reviews/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/products/[id]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/products/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/server-route/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Product.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Review.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/server-utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/interleaving/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/landing-page/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageSlider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ThemeProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/client-component-one.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/client-component-two.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/nav-links.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/nav-search.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/server-component-one.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/server-component-two.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/client-utils.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/client-route/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/client-route/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/server-route/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/server-route/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,22 +53,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "E:\\Nextjs 15 Tutorial Playlist\\51-60 videos (rendering-demo)\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\Nextjs 15 Tutorial Playlist\\51-60 videos (rendering-demo)\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Nextjs 15 Tutorial Playlist\51-60 videos (rendering-demo)\src\app\landing-page" />
       <recent name="E:\Nextjs 15 Tutorial Playlist\51-60 videos (rendering-demo)\src\app" />
     </key>
   </component>
@@ -83,7 +92,9 @@
       <workItem from="1742360206750" duration="179000" />
       <workItem from="1742392246223" duration="650000" />
       <workItem from="1742551816801" duration="2796000" />
-      <workItem from="1742999883425" duration="4451000" />
+      <workItem from="1742999883425" duration="5637000" />
+      <workItem from="1743511413824" duration="2548000" />
+      <workItem from="1743717289797" duration="5892000" />
     </task>
     <servers />
   </component>
